@@ -141,7 +141,7 @@ margin-bottom: 2rem;
 }
 
 .image img {
-  width: 250px;
+  width: 200px;
 }
 
 @media (width < 750px) {
